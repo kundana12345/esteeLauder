@@ -7,19 +7,49 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C1998D3C2A79B6780070C0BE /* ingred.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1998D3B2A79B6780070C0BE /* ingred.swift */; };
 		C1A6A9252A78998F0095B16C /* esteeLauderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A6A9242A78998F0095B16C /* esteeLauderApp.swift */; };
 		C1A6A9272A78998F0095B16C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A6A9262A78998F0095B16C /* ContentView.swift */; };
 		C1A6A9292A7899900095B16C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1A6A9282A7899900095B16C /* Assets.xcassets */; };
 		C1A6A92D2A7899900095B16C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1A6A92C2A7899900095B16C /* Preview Assets.xcassets */; };
+		C1D969A12A78B7D4005CBF50 /* cleanser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969A02A78B7D4005CBF50 /* cleanser.swift */; };
+		C1D969A32A78BC10005CBF50 /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969A22A78BC10005CBF50 /* homePage.swift */; };
+		C1D969AD2A78BEEA005CBF50 /* cleanser.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969A52A78BEE9005CBF50 /* cleanser.swift */; };
+		C1D969AE2A78BEEA005CBF50 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1D969A62A78BEE9005CBF50 /* Assets.xcassets */; };
+		C1D969AF2A78BEEA005CBF50 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C1D969A82A78BEE9005CBF50 /* Preview Assets.xcassets */; };
+		C1D969B02A78BEEA005CBF50 /* homePage.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969A92A78BEE9005CBF50 /* homePage.swift */; };
+		C1D969B12A78BEEA005CBF50 /* esteeLauderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969AB2A78BEE9005CBF50 /* esteeLauderApp.swift */; };
+		C1D969B22A78BEEA005CBF50 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969AC2A78BEE9005CBF50 /* ContentView.swift */; };
+		C1D969B42A78BF40005CBF50 /* OptimaDisplay-Book.otf in Resources */ = {isa = PBXBuildFile; fileRef = C1D969B32A78BF40005CBF50 /* OptimaDisplay-Book.otf */; };
+		C1D969B72A78CA64005CBF50 /* aLotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969B62A78CA64005CBF50 /* aLotion.swift */; };
+		C1D969B92A78CA6F005CBF50 /* rLotion.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969B82A78CA6F005CBF50 /* rLotion.swift */; };
+		C1D969BD2A78D615005CBF50 /* cremeMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1D969BC2A78D615005CBF50 /* cremeMask.swift */; };
+		C1E750442A79D55C006B9F9D /* ingred2.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1E750432A79D55C006B9F9D /* ingred2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C1998D3B2A79B6780070C0BE /* ingred.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ingred.swift; sourceTree = "<group>"; };
 		C1A6A9212A78998F0095B16C /* esteeLauder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = esteeLauder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1A6A9242A78998F0095B16C /* esteeLauderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esteeLauderApp.swift; sourceTree = "<group>"; };
 		C1A6A9262A78998F0095B16C /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C1A6A9282A7899900095B16C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C1A6A92A2A7899900095B16C /* esteeLauder.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = esteeLauder.entitlements; sourceTree = "<group>"; };
 		C1A6A92C2A7899900095B16C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1D969A02A78B7D4005CBF50 /* cleanser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cleanser.swift; sourceTree = "<group>"; };
+		C1D969A22A78BC10005CBF50 /* homePage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
+		C1D969A52A78BEE9005CBF50 /* cleanser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = cleanser.swift; sourceTree = "<group>"; };
+		C1D969A62A78BEE9005CBF50 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		C1D969A82A78BEE9005CBF50 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C1D969A92A78BEE9005CBF50 /* homePage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = homePage.swift; sourceTree = "<group>"; };
+		C1D969AA2A78BEE9005CBF50 /* esteeLauder.entitlements */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.entitlements; path = esteeLauder.entitlements; sourceTree = "<group>"; };
+		C1D969AB2A78BEE9005CBF50 /* esteeLauderApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = esteeLauderApp.swift; sourceTree = "<group>"; };
+		C1D969AC2A78BEE9005CBF50 /* ContentView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		C1D969B32A78BF40005CBF50 /* OptimaDisplay-Book.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "OptimaDisplay-Book.otf"; sourceTree = "<group>"; };
+		C1D969B52A78C007005CBF50 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		C1D969B62A78CA64005CBF50 /* aLotion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = aLotion.swift; sourceTree = "<group>"; };
+		C1D969B82A78CA6F005CBF50 /* rLotion.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = rLotion.swift; sourceTree = "<group>"; };
+		C1D969BC2A78D615005CBF50 /* cremeMask.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cremeMask.swift; sourceTree = "<group>"; };
+		C1E750432A79D55C006B9F9D /* ingred2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ingred2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,8 +82,17 @@
 		C1A6A9232A78998F0095B16C /* esteeLauder */ = {
 			isa = PBXGroup;
 			children = (
+				C1D969B52A78C007005CBF50 /* Info.plist */,
+				C1D969A42A78BEE9005CBF50 /* esteeLauder */,
 				C1A6A9242A78998F0095B16C /* esteeLauderApp.swift */,
 				C1A6A9262A78998F0095B16C /* ContentView.swift */,
+				C1D969A22A78BC10005CBF50 /* homePage.swift */,
+				C1D969A02A78B7D4005CBF50 /* cleanser.swift */,
+				C1D969B62A78CA64005CBF50 /* aLotion.swift */,
+				C1D969BC2A78D615005CBF50 /* cremeMask.swift */,
+				C1D969B82A78CA6F005CBF50 /* rLotion.swift */,
+				C1998D3B2A79B6780070C0BE /* ingred.swift */,
+				C1E750432A79D55C006B9F9D /* ingred2.swift */,
 				C1A6A9282A7899900095B16C /* Assets.xcassets */,
 				C1A6A92A2A7899900095B16C /* esteeLauder.entitlements */,
 				C1A6A92B2A7899900095B16C /* Preview Content */,
@@ -65,6 +104,29 @@
 			isa = PBXGroup;
 			children = (
 				C1A6A92C2A7899900095B16C /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		C1D969A42A78BEE9005CBF50 /* esteeLauder */ = {
+			isa = PBXGroup;
+			children = (
+				C1D969B32A78BF40005CBF50 /* OptimaDisplay-Book.otf */,
+				C1D969A52A78BEE9005CBF50 /* cleanser.swift */,
+				C1D969A62A78BEE9005CBF50 /* Assets.xcassets */,
+				C1D969A72A78BEE9005CBF50 /* Preview Content */,
+				C1D969A92A78BEE9005CBF50 /* homePage.swift */,
+				C1D969AA2A78BEE9005CBF50 /* esteeLauder.entitlements */,
+				C1D969AB2A78BEE9005CBF50 /* esteeLauderApp.swift */,
+				C1D969AC2A78BEE9005CBF50 /* ContentView.swift */,
+			);
+			name = esteeLauder;
+			sourceTree = "<group>";
+		};
+		C1D969A72A78BEE9005CBF50 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				C1D969A82A78BEE9005CBF50 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -127,7 +189,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C1D969AF2A78BEEA005CBF50 /* Preview Assets.xcassets in Resources */,
 				C1A6A92D2A7899900095B16C /* Preview Assets.xcassets in Resources */,
+				C1D969AE2A78BEEA005CBF50 /* Assets.xcassets in Resources */,
+				C1D969B42A78BF40005CBF50 /* OptimaDisplay-Book.otf in Resources */,
 				C1A6A9292A7899900095B16C /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -141,6 +206,17 @@
 			files = (
 				C1A6A9272A78998F0095B16C /* ContentView.swift in Sources */,
 				C1A6A9252A78998F0095B16C /* esteeLauderApp.swift in Sources */,
+				C1D969B22A78BEEA005CBF50 /* ContentView.swift in Sources */,
+				C1D969B92A78CA6F005CBF50 /* rLotion.swift in Sources */,
+				C1998D3C2A79B6780070C0BE /* ingred.swift in Sources */,
+				C1D969B12A78BEEA005CBF50 /* esteeLauderApp.swift in Sources */,
+				C1D969B72A78CA64005CBF50 /* aLotion.swift in Sources */,
+				C1D969A12A78B7D4005CBF50 /* cleanser.swift in Sources */,
+				C1D969B02A78BEEA005CBF50 /* homePage.swift in Sources */,
+				C1E750442A79D55C006B9F9D /* ingred2.swift in Sources */,
+				C1D969A32A78BC10005CBF50 /* homePage.swift in Sources */,
+				C1D969AD2A78BEEA005CBF50 /* cleanser.swift in Sources */,
+				C1D969BD2A78D615005CBF50 /* cremeMask.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -267,6 +343,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"esteeLauder/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = esteeLauder/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;
@@ -303,6 +380,7 @@
 				DEVELOPMENT_ASSET_PATHS = "\"esteeLauder/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = esteeLauder/Info.plist;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphoneos*]" = YES;

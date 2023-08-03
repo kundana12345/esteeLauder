@@ -9,13 +9,33 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+//        Color(red: 230/255, green: 233/255, blue: 240/255)
+//            .ignoresSafeArea()
+        ZStack{
+            NavigationStack{
+                Color(red: 230/255, green: 233/255, blue: 240/255)
+                    .ignoresSafeArea()
+                    .overlay(
+                LazyVStack(spacing: 20) {
+                    Image("heading")
+                        .resizable(resizingMode: .stretch)
+                        .aspectRatio(contentMode: .fit)
+                    Image("allProducts")
+                        .resizable(resizingMode: .stretch)
+                        .aspectRatio(contentMode: .fit)
+                        .padding(.horizontal)
+                        .frame(height: 500.0)
+                        
+                        
+                    NavigationLink(destination: homePage()) {
+                        Image("navLink")
+                            .resizable(resizingMode: .stretch)
+                            .aspectRatio(contentMode: .fit)
+
+                    }
+                })
+            }
         }
-        .padding()
     }
 }
 
