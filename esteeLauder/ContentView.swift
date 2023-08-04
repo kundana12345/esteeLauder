@@ -9,8 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-//        Color(red: 230/255, green: 233/255, blue: 240/255)
-//            .ignoresSafeArea()
         ZStack{
             NavigationStack{
                 Color(red: 230/255, green: 233/255, blue: 240/255)

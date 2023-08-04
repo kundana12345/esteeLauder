@@ -5,24 +5,6 @@
 //  Created by Kundana Addala on 8/1/23.
 
 
-//import SwiftUI
-//
-//struct aLotion: View {
-//    var body: some View {
-//
-//        VStack{
-//
-//
-//        }
-//    }
-//}
-//
-//struct aLotion_Previews: PreviewProvider {
-//    static var previews: some View {
-//        aLotion()
-//    }
-//}
-
 import SwiftUI
 
 struct aLotion: View {
@@ -75,7 +57,7 @@ struct aLotion: View {
         }
     }
     private func startTimer() {
-        Timer.scheduledTimer(withTimeInterval: 3, repeats: true) { timer in
+        Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { timer in
             withAnimation {
                 currentImageIndex = (currentImageIndex + 1) % 4
             }

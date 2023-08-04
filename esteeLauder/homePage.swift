@@ -70,6 +70,16 @@ struct homePage: View {
                                             .aspectRatio(contentMode: .fit)
                                             
                                     }
+                                    Spacer()
+                                        .padding(15.0)
+                                    NavigationLink(destination: betterQuestions()) {
+                                        Image(systemName: "questionmark.bubble.fill")
+                                            .resizable(resizingMode: .stretch)
+                                            .aspectRatio(contentMode: .fit)
+                                            .foregroundColor(Color.white)
+                                            .padding([.leading, .bottom, .trailing])
+                                            .frame(width: 100.0)
+                                    }
                                 }
                                 
                             }

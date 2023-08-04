@@ -5,20 +5,6 @@
 //  Created by Kundana Addala on 8/1/23.
 //
 
-//import SwiftUI
-//
-//struct cremeMask: View {
-//    var body: some View {
-//        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
-//    }
-//}
-//
-//struct cremeMask_Previews: PreviewProvider {
-//    static var previews: some View {
-//        cremeMask()
-//    }
-//}
-
 import SwiftUI
 
 struct cremeMask: View {
@@ -71,7 +57,7 @@ struct cremeMask: View {
         }
     }
     private func startTimer() {
-        Timer.scheduledTimer(withTimeInterval: 3, repeats: true) { timer in
+        Timer.scheduledTimer(withTimeInterval: 2, repeats: true) { timer in
             withAnimation {
                 currentImageIndex = (currentImageIndex + 1) % 4
             }

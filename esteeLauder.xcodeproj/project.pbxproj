@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C16F692E2A7CB73B00E7BA42 /* betterQuestions.swift in Sources */ = {isa = PBXBuildFile; fileRef = C16F692D2A7CB73B00E7BA42 /* betterQuestions.swift */; };
 		C1998D3C2A79B6780070C0BE /* ingred.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1998D3B2A79B6780070C0BE /* ingred.swift */; };
 		C1A6A9252A78998F0095B16C /* esteeLauderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A6A9242A78998F0095B16C /* esteeLauderApp.swift */; };
 		C1A6A9272A78998F0095B16C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C1A6A9262A78998F0095B16C /* ContentView.swift */; };
@@ -28,6 +29,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C16F692D2A7CB73B00E7BA42 /* betterQuestions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = betterQuestions.swift; sourceTree = "<group>"; };
 		C1998D3B2A79B6780070C0BE /* ingred.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ingred.swift; sourceTree = "<group>"; };
 		C1A6A9212A78998F0095B16C /* esteeLauder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = esteeLauder.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C1A6A9242A78998F0095B16C /* esteeLauderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = esteeLauderApp.swift; sourceTree = "<group>"; };
@@ -93,6 +95,7 @@
 				C1D969B82A78CA6F005CBF50 /* rLotion.swift */,
 				C1998D3B2A79B6780070C0BE /* ingred.swift */,
 				C1E750432A79D55C006B9F9D /* ingred2.swift */,
+				C16F692D2A7CB73B00E7BA42 /* betterQuestions.swift */,
 				C1A6A9282A7899900095B16C /* Assets.xcassets */,
 				C1A6A92A2A7899900095B16C /* esteeLauder.entitlements */,
 				C1A6A92B2A7899900095B16C /* Preview Content */,
@@ -211,6 +214,7 @@
 				C1998D3C2A79B6780070C0BE /* ingred.swift in Sources */,
 				C1D969B12A78BEEA005CBF50 /* esteeLauderApp.swift in Sources */,
 				C1D969B72A78CA64005CBF50 /* aLotion.swift in Sources */,
+				C16F692E2A7CB73B00E7BA42 /* betterQuestions.swift in Sources */,
 				C1D969A12A78B7D4005CBF50 /* cleanser.swift in Sources */,
 				C1D969B02A78BEEA005CBF50 /* homePage.swift in Sources */,
 				C1E750442A79D55C006B9F9D /* ingred2.swift in Sources */,

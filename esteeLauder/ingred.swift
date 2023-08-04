@@ -5,22 +5,6 @@
 //  Created by Kundana Addala on 8/1/23.
 //
 
-//import SwiftUI
-//
-//struct ingred: View {
-//    var body: some View {
-//        NavigationStack {
-//            VStack {
-//            }
-//        }
-//    }
-//}
-//
-//struct ingred_Previews: PreviewProvider {
-//    static var previews: some View {
-//        ingred()
-//    }
-//}
 import SwiftUI
 
 
@@ -72,7 +56,7 @@ struct ImageCarousel2: View {
                                         
                                     }
                                     Button(action: {
-                                        if let url = URL(string: "https://www.100percentpure.com/blogs/feed/4-ways-red-algae-benefits-your-skin") {
+                                        if let url = URL(string: "https://dailygem.co/blogs/news/benefits-of-red-algae-for-skin") {
                                             UIApplication.shared.open(url)
                                         }
                                     }) {
@@ -132,7 +116,6 @@ struct ImageCarousel2: View {
 struct ingred: View {
     var body: some View {
         ImageCarousel2(ingredImages: ["ingred1", "ingred2", "ingred3", "ingred4", "ingred5"])
-//        ImageCarousel2(ingredImages: ["betterIngred1", "betterIngred2", "betterIngred3", "betterIngred4", "betterIngred5"])
     }
 }
 

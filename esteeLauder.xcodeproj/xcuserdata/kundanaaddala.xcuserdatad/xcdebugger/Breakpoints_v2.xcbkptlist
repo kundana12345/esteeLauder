@@ -14,8 +14,8 @@
             filePath = "esteeLauder/ContentView.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "23"
-            endingLineNumber = "23"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
             landmarkName = "body"
             landmarkType = "24">
          </BreakpointContent>
@@ -34,6 +34,38 @@
             endingLineNumber = "14"
             landmarkName = "body"
             landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "4783658B-2816-4A49-A0BE-DC4E058A4D7F - 6189a86f18d644b9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "esteeLauder.homePage.body.getter : some"
+                  moduleName = "esteeLauder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kundanaaddala/Desktop/esteeLauder/esteeLauder/homePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "120">
+               </Location>
+               <Location
+                  uuid = "4783658B-2816-4A49-A0BE-DC4E058A4D7F - 14e87f03138856f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; SwiftUI.NavigationStack&lt;SwiftUI.NavigationPath, &lt;&lt;opaque return type of SwiftUI.View.overlay&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.View&gt;(_: &#x3c4;_1_0, alignment: SwiftUI.Alignment) -&gt; some&gt;&gt;.0&gt; in esteeLauder.homePage.body.getter : some"
+                  moduleName = "esteeLauder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kundanaaddala/Desktop/esteeLauder/esteeLauder/homePage.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "116">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
